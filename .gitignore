@@ -6,3 +6,4 @@ mbed-os
 BUILD
 
 DHT
+Grove_LCD_RGB_Backlight
