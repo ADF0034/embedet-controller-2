@@ -17,6 +17,7 @@ DigitalIn Restart (D7); //button for rest time
 DigitalIn countButton(USER_BUTTON);
 static BufferedSerial pc(USBTX,USBRX);
 float val;
+//
 struct room{
     char nameofroom[25];
 };
